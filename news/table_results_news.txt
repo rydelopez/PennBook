@@ -1,0 +1,100 @@
+{"category":"POLITICS","news_id":"99"}
+{"category":"POLITICS","news_id":"63"}
+{"category":"POLITICS","news_id":"92"}
+{"category":"POLITICS","news_id":"64"}
+{"category":"POLITICS","news_id":"36"}
+{"category":"ENTERTAINMENT","news_id":"49"}
+{"category":"POLITICS","news_id":"33"}
+{"category":"WEIRD NEWS","news_id":"22"}
+{"category":"POLITICS","news_id":"18"}
+{"category":"ENTERTAINMENT","news_id":"50"}
+{"category":"POLITICS","news_id":"16"}
+{"category":"CRIME","news_id":"40"}
+{"category":"POLITICS","news_id":"90"}
+{"category":"ENTERTAINMENT","news_id":"2"}
+{"category":"POLITICS","news_id":"13"}
+{"category":"ENTERTAINMENT","news_id":"54"}
+{"category":"WOMEN","news_id":"79"}
+{"category":"ENTERTAINMENT","news_id":"8"}
+{"category":"IMPACT","news_id":"66"}
+{"category":"ENTERTAINMENT","news_id":"48"}
+{"category":"ENTERTAINMENT","news_id":"9"}
+{"category":"POLITICS","news_id":"59"}
+{"category":"ENTERTAINMENT","news_id":"1"}
+{"category":"BLACK VOICES","news_id":"31"}
+{"category":"SPORTS","news_id":"80"}
+{"category":"ENTERTAINMENT","news_id":"6"}
+{"category":"POLITICS","news_id":"62"}
+{"category":"BUSINESS","news_id":"87"}
+{"category":"WORLD NEWS","news_id":"75"}
+{"category":"WORLD NEWS","news_id":"76"}
+{"category":"POLITICS","news_id":"97"}
+{"category":"ENTERTAINMENT","news_id":"84"}
+{"category":"POLITICS","news_id":"60"}
+{"category":"WEIRD NEWS","news_id":"61"}
+{"category":"COMEDY","news_id":"38"}
+{"category":"BLACK VOICES","news_id":"28"}
+{"category":"BLACK VOICES","news_id":"89"}
+{"category":"POLITICS","news_id":"94"}
+{"category":"POLITICS","news_id":"98"}
+{"category":"ENTERTAINMENT","news_id":"53"}
+{"category":"ENTERTAINMENT","news_id":"82"}
+{"category":"POLITICS","news_id":"30"}
+{"category":"WOMEN","news_id":"35"}
+{"category":"ENTERTAINMENT","news_id":"52"}
+{"category":"WORLD NEWS","news_id":"24"}
+{"category":"POLITICS","news_id":"77"}
+{"category":"POLITICS","news_id":"91"}
+{"category":"ENTERTAINMENT","news_id":"81"}
+{"category":"BLACK VOICES","news_id":"88"}
+{"category":"BLACK VOICES","news_id":"27"}
+{"category":"POLITICS","news_id":"96"}
+{"category":"CRIME","news_id":"0"}
+{"category":"QUEER VOICES","news_id":"71"}
+{"category":"ENTERTAINMENT","news_id":"5"}
+{"category":"ENTERTAINMENT","news_id":"4"}
+{"category":"ENTERTAINMENT","news_id":"44"}
+{"category":"POLITICS","news_id":"95"}
+{"category":"CRIME","news_id":"32"}
+{"category":"COMEDY","news_id":"41"}
+{"category":"ENTERTAINMENT","news_id":"51"}
+{"category":"COMEDY","news_id":"78"}
+{"category":"ENTERTAINMENT","news_id":"83"}
+{"category":"WOMEN","news_id":"68"}
+{"category":"POLITICS","news_id":"65"}
+{"category":"ENTERTAINMENT","news_id":"34"}
+{"category":"WORLD NEWS","news_id":"23"}
+{"category":"POLITICS","news_id":"58"}
+{"category":"ENTERTAINMENT","news_id":"46"}
+{"category":"POLITICS","news_id":"19"}
+{"category":"WORLD NEWS","news_id":"26"}
+{"category":"ENTERTAINMENT","news_id":"55"}
+{"category":"ENTERTAINMENT","news_id":"7"}
+{"category":"ENTERTAINMENT","news_id":"56"}
+{"category":"WORLD NEWS","news_id":"11"}
+{"category":"ENTERTAINMENT","news_id":"3"}
+{"category":"QUEER VOICES","news_id":"70"}
+{"category":"COMEDY","news_id":"85"}
+{"category":"QUEER VOICES","news_id":"69"}
+{"category":"WEIRD NEWS","news_id":"20"}
+{"category":"COMEDY","news_id":"39"}
+{"category":"ENTERTAINMENT","news_id":"45"}
+{"category":"WORLD NEWS","news_id":"74"}
+{"category":"COMEDY","news_id":"37"}
+{"category":"POLITICS","news_id":"93"}
+{"category":"BLACK VOICES","news_id":"29"}
+{"category":"COMEDY","news_id":"86"}
+{"category":"ENTERTAINMENT","news_id":"21"}
+{"category":"WORLD NEWS","news_id":"25"}
+{"category":"IMPACT","news_id":"12"}
+{"category":"POLITICS","news_id":"17"}
+{"category":"WOMEN","news_id":"67"}
+{"category":"ENTERTAINMENT","news_id":"10"}
+{"category":"WORLD NEWS","news_id":"57"}
+{"category":"ENTERTAINMENT","news_id":"47"}
+{"category":"POLITICS","news_id":"15"}
+{"category":"CRIME","news_id":"42"}
+{"category":"ENTERTAINMENT","news_id":"43"}
+{"category":"POLITICS","news_id":"14"}
+{"category":"WEIRD NEWS","news_id":"72"}
+{"category":"WORLD NEWS","news_id":"73"}
