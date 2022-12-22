@@ -1,14 +1,13 @@
 Team Members:
 Jason Ren: jren2
 Brian Williams: bewill
-Ryan de Lopez: vdelopez
+Ryan De Lopez: vdelopez
 Susan Zhang: szhang25
 
 Features Implemented:
 
 - In this project, we implemented a facebook themed around Penn students. This allows users to sign up and login
   with hashed password accounts, change their information (while maintaining security such that other users cannot change others' information) such as affiliation, interests, password and email, add friends, search for friends, comment on friends' posts with dynamicism and persistence, chat with others and get news suggested to them. All of this information is persistent and maintains on login. Along with these features, each user has their own wall where they can view their own posts and posts made on their wall. They will also have a home page to view status updates, new friendships, and profile updates made by friends. This app also allows the user to view their network of friends and those with similar affiliations.
-  Overall, this application implements all required features from the NETS2120 final project handout.
 
 Extra Credit:
 - This project also implements dynamic and persistent profile pictures and persistent group chat messages.  
@@ -128,7 +127,7 @@ G22
 
 Declaration that all ofthe code you are submitting was written by us:
 Brian Williams bewill
-Ryan deLopez vdelopez
+Ryan De Lopez vdelopez
 Susan Zhang szhang25
 Jason Ren jren2
 
